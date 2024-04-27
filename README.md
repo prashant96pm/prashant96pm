@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on [Software development, Any product launch](https://theproductmanager.com/tools/product-development-software/)
 
-- 🤝 I’m looking for help with [Online Learning Platform, CMS, E-commerce Website, Travel Planning, Health and Fitness, Social Media App Development](https://shanebarker.com/blog/product-launch-tools/)
+- 🤝 I’m looking for help with [Online Learning Platform, CMS, E-commerce Website, Travel Planning, 
 
 - 👨‍💻 Social media [https://www.linkedin.com/in/prashant-marabe-35280a141/](https://www.linkedin.com/in/prashant-marabe-35280a141/)
 
