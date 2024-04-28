@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **prashantmarbe@gmail.com**
 
-- 📄 Know about my experiences [https://www.overleaf.com/project/650460b90a60f02421525d50](https://www.overleaf.com/project/650460b90a60f02421525d50)
+
 
 - ⚡ Fun fact **I am funny**
 
