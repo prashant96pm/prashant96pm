@@ -17,7 +17,7 @@
 
 - 👨‍💻 Social media [https://www.linkedin.com/in/prashant-marabe-35280a141/](https://www.linkedin.com/in/prashant-marabe-35280a141/)
 
-- 💬 Ask me about **DSA, Python, SQL, HTML, CSS, JS, React**
+
 
 - 📫 How to reach me **prashantmarbe@gmail.com**
 
