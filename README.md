@@ -23,7 +23,7 @@
 
 - 📄 Know about my experiences [https://www.overleaf.com/project/650460b90a60f02421525d50](https://www.overleaf.com/project/650460b90a60f02421525d50)
 
-- ⚡ Fun fact **I am funny**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
