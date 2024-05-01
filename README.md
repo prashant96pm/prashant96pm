@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working in [DXC Technology](https://dxc.com/in/en)
 
-
+- 🌱 I’m currently learning **AWS ML Specialty, React, Node.js, Express.js**
 
 - 👯 I’m looking to collaborate on [Software development, Any product launch](https://theproductmanager.com/tools/product-development-software/)
 
