@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/prashantpachhi" target="blank"><img src="https://img.shields.io/twitter/follow/prashantpachhi?logo=twitter&style=for-the-badge" alt="prashantpachhi" /></a> </p>
 
-
+- 🔭 I’m currently working in [DXC Technology](https://dxc.com/in/en)
 
 - 🌱 I’m currently learning **AWS ML Specialty, React, Node.js, Express.js**
 
